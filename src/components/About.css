@@ -1,0 +1,12 @@
+.about{
+    display: flex;
+    padding: 40px 90px;
+}
+.right-content-about{
+   margin-left: 100px;
+}
+.right-content-about>h2{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    padding-right: 100px;
+}

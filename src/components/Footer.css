@@ -1,0 +1,8 @@
+ul.widget_contact_wrapper,
+ul.footer-quick-links {
+  list-style-type: none;
+  padding-left: 0;
+}
+hr.new4 {
+    border: 1px solid black;
+  }

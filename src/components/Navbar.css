@@ -1,0 +1,29 @@
+
+.navbar-nav a{
+   margin-left: 30px;
+   color: black;
+
+}
+.side-nav{
+    display: flex;
+    /* background-color: rgba(233, 233, 233, 0.814); */
+    margin-right: 150px;
+}
+.side-butt button{
+    margin: 5px 10px;
+    border-radius: 2px;
+    color: #AC7E64;
+    border: 1px solid #AC7E64;
+}
+.side-butt button:hover{
+    background-color: #AC7E64;
+    color: #fff;
+}
+.side-butt Button:hover{
+    background-color: #AC7E64;
+}
+.side-icons {
+    margin: 8px 15px;
+    color: #AC7E64;
+
+}

@@ -1,0 +1,28 @@
+.home-bg{
+    /* width: 1300px; */
+    height: 600px;
+    background-color: blueviolet;
+    background-image: url("https://www.linnseed.com/front_assets/HomeResource/img/slider/slide1.jpg");
+    background-position: left;
+    padding: 50px 170px;
+
+}
+.home-container{
+    display: flex;
+    height: 500px;
+    width: 1200px;
+    /* background-color: aqua; */
+}
+.home-one{
+    width: 1200px;
+    height: 350px;
+    /* background-color: rgb(176, 176, 242); */
+}
+.home-two{
+    width: 1200px;
+    height: 500px;
+    /* background-color: rgb(0, 0, 0); */
+    /* background-image: url(https://www.linnseed.com/front_assets/HomeResource/iphone.png);
+    background-position: center; */
+
+}

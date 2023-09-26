@@ -1,0 +1,30 @@
+.blogpage-card{
+    display: flex;
+    background-color: rgb(234, 234, 244);
+    width: 85vw;
+    margin: 30px auto;
+    padding: 40px;
+    border-radius: 5px;
+}
+.image-blogpage{
+    width: 35%;
+    /* height: 250px; */
+    /* background-color: yellow; */
+    /* margin: auto; */
+    margin-right: 40px;
+}
+.content-right-blogpage{
+    width: 60%;
+}
+.btn-readmore{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
+.btn-readmore:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+   
+}

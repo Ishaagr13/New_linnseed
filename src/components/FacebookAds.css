@@ -1,0 +1,18 @@
+.facebook-ads{
+    margin: 30px auto;
+    text-align: center;
+    background-color: #f6d5aacb;
+}
+.facebook-ads>h3{
+   padding-top: 40px;
+}
+.carousel{
+ margin: 30px auto;
+ padding-bottom: 50px;
+}
+.react-multiple-carousel__arrow {
+    display: none;
+}
+.fb-ads>img{
+    padding-left: 20px;
+}

@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.business-flow{
+    text-align: center;
+    margin: 40px auto;
+    padding: 10px;
+}
+
+video {
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    overflow-x: auto;
+    overflow-y:auto ;
+    border: 0.5px solid lightgray;
+}
+.business-flow>h3, .business-flow>h6{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

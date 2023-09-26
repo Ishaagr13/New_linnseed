@@ -1,0 +1,34 @@
+.blog{
+    text-align: center;
+    margin: 30px auto;
+    padding: 30px 0;
+    background-color: rgb(240, 248, 255);
+}
+.cardy1{
+    text-align: start;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top-logo-content{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    padding:20px;
+}
+.content-linnseed{
+    margin-left: 10px;
+}
+.content-linnseed>h6 ,.content-linnseed>p{
+    margin: 0;
+    padding: 0;
+}
+.btn-viewall{
+    background-color: #AC7E64;
+    border: none;
+    color: white;
+    padding:9px 18px;
+    border-radius: 2px;
+    margin-top: 10px;
+}

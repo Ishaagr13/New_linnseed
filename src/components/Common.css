@@ -1,0 +1,18 @@
+.nav-header {
+    background: url(https://www.linnseed.com/front_assets/HomeResource/img/Temp/pagetitle-bg.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+}
+.nav-cover {
+    background-color: rgba(34, 45, 53, 0.80);
+}
+/* .container{
+    width: 100%;
+    background-color: rgba(42, 40, 40, 0.216);
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+} */

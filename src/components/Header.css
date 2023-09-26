@@ -1,0 +1,23 @@
+.container{
+    background-color: white;
+}
+.contact-us{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: lightgray ; */
+
+}
+.contact-us>img{
+    padding-right: 10px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+.content>h6, .content>p{
+    margin: 0px 7px;
+    padding: 5px;
+}
