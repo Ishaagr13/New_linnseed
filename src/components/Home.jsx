@@ -1,6 +1,7 @@
 import React from "react";
 import "../components/Home.css";
-import iphone from "../assests/iphone.png";
+// import iphone from "../assest/iphone.png";
+import iphone from "../assets/iphone.png"
 
 const Home = () => {
   return (

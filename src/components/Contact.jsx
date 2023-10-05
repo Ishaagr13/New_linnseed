@@ -1,6 +1,6 @@
 import React from "react";
 import '../components/Contact.css';
-import cotton from "../assests/cotton.jpg";
+// import cotton from "../assest/cotton.jpg";
 
 const Contact = () => {
   return (
