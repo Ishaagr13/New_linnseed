@@ -6,7 +6,8 @@
     z-index: 1;
 }
 .nav-cover {
-    background-color: rgba(34, 45, 53, 0.80);
+    /* background-color: rgba(34, 45, 53, 0.634); */
+    background-color: rgb(149 95 46 / 50%);
 }
 /* .container{
     width: 100%;

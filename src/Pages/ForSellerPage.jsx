@@ -8,7 +8,7 @@ function ForSellerPage() {
     <div>
       <Header />
       <Navbar/>
-      <Common/>
+      <Common user="Seller"/>
     </div>
   );
 }

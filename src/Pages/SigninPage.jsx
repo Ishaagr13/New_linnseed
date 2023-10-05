@@ -7,8 +7,8 @@ function SigninPage() {
   return (
     <div>
       <Header />
-
       <Navbar />
+      
       <section class="nav-header">
         <div class="nav-cover">
           <div class="row pt-5 pb-5 text-white">

@@ -22,7 +22,7 @@ const Navbar = (args) => {
         className="navbar navbar-expand-lg navbar-light bg-grey"
         style={{ backgroundColor: "rgba(233, 233, 233, 0.814)" }}
       >
-        <div className="container-fluid" style={{ paddingLeft: "80px" }}>
+        <div className="container-fluid"  style={{ padding:'0px 2px'}}>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
@@ -32,12 +32,22 @@ const Navbar = (args) => {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/forbuyers" style={{ color: "black" }}>
-                  For Buyers
+                  Buyers
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link " href="/forsellers" style={{ color: "black" }}>
-                  For Seller
+                  Seller
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link " href="/forsellers" style={{ color: "black" }}>
+                  News
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link " href="/forsellers" style={{ color: "black" }}>
+                  Videos
                 </a>
               </li>
               <li className="nav-item">
@@ -53,7 +63,7 @@ const Navbar = (args) => {
             </ul>
             <div className="side-nav">
               <div className="side-butt">
-                <button className="btn butt" type="submit" onClick={toggle}>
+                <button className="btn butt" style={{backgroundColor:'#AC7E64',color:'white'}} type="submit" onClick={toggle}>
                   Support
                 </button>
 
@@ -183,7 +193,7 @@ const Navbar = (args) => {
                 >
                   <FaFacebookF
                     className="face"
-                    style={{ marginRight: "35px", color: "#AC7E64" }}
+                    style={{ marginRight: "35px", color: "#AC7E64"}}
                   />
                 </a>
                 <a

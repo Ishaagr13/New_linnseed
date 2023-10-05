@@ -1,4 +1,6 @@
-
+.nav-item{
+    font-weight: 500;
+}
 .navbar-nav a{
    margin-left: 30px;
    color: black;

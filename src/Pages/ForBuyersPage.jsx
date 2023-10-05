@@ -9,7 +9,7 @@ function ForBuyersPage() {
         <div>
             <Header/>
             <Navbar/>
-            <Common/>
+            <Common user="Buyer"/>
         </div>
         
     )
